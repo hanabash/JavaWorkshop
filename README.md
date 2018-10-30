@@ -11,7 +11,7 @@ Additionally, Java's applicability is broad, ranging from scientific application
 
 ## Workshop pre-requisites
 * Basic programming experience with at least one language
-* A text editor such as [Codenvy](https://codenvy.com) 
+* A text editor such as [Eclipse](https://www.eclipse.org/ide/) or [Eclipse Che](https://www.eclipse.org/che/)
 
 ## Part 1: Getting familiar with basic syntax 
 We'll be using an instant IDE called [Repl](https://repl.it/languages/java) to go over basic syntax before we jump into a simple demo in part 2. When you click on the link above, it should open something that looks like this:
